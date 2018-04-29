@@ -1,0 +1,9 @@
+allprojects{
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compile 'com.github.michaelbull:rs-api:1.1.0'
+}
+}
